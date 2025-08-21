@@ -93,8 +93,8 @@ SafeView는 단순한 CCTV 모니터링 시스템이 아닙니다.<br>
         <td align="center"><img src="https://avatars.githubusercontent.com/u/147246023?v=4" width="300px" /></td>
     </tr>
     <tr>
-        <td align="center"><b><a href="https://github.com/geg222">이한준</a></b></td>
-        <td align="center"><b><a href="https://github.com/geg222">신민금</a></b></td>
+        <td align="center"><b><a href="https://github.com/Lee-Han-Jun">이한준</a></b></td>
+        <td align="center"><b><a href="https://github.com/shinmink">신민금</a></b></td>
         <td align="center"><b><a href="https://github.com/geg222">원준영</a></b></td>
     </tr>
     <tr>
