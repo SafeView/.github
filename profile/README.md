@@ -44,6 +44,7 @@ SafeView는 단순한 CCTV 모니터링 시스템이 아닙니다.<br>
 
 <br>
 
+# 🧩 System Architecture
 
 ![README md 7](https://github.com/user-attachments/assets/331c016a-f082-4995-8408-da254f653efa)
 
