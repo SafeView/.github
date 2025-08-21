@@ -1,4 +1,4 @@
-[![README md 1](https://github.com/user-attachments/assets/a1a375cf-7835-4d1b-8f3f-3170a452fc4f)](https://www.youtube.com/watch?v=Np54Jy9TDlM)
+[![README md 1](https://youtu.be/QKE4LbO8U7E)
 ##### 📽️ 데모 영상을 보시려면 위 이미지를 클릭해 주세요.
 
 
@@ -20,27 +20,33 @@ SafeView는 단순한 CCTV 모니터링 시스템이 아닙니다.<br>
 <br><br>
 
 
-![README md 2](https://github.com/user-attachments/assets/3b75b9fd-5488-49d7-9bb3-34695550c0c2)
+<img width="939" height="429" alt="스크린샷 2025-08-21 오후 4 19 27" src="https://github.com/user-attachments/assets/abab4bc2-2b08-4d5d-bedd-c388caf0ff33" />
+
 
 <br>
 
 
-![README md 3](https://github.com/user-attachments/assets/84cfe29a-0ead-4d2f-bce0-a0ff0a01e34b)
+<img width="904" height="36" alt="스크린샷 2025-08-21 오후 4 25 14" src="https://github.com/user-attachments/assets/1e10be2f-3034-4101-8446-77f8f4769c83" />
+  <img width="955" height="538" alt="스크린샷 2025-08-21 오후 4 22 48" src="https://github.com/user-attachments/assets/0476eeb1-da1d-4814-b6f6-56cec7dd6e28" />
+
 
 <br>
 
 
-![README md 4](https://github.com/user-attachments/assets/05912bc4-b227-4b78-8eb2-6e32fcdae30d)
+<img width="957" height="428" alt="스크린샷 2025-08-21 오후 4 26 40" src="https://github.com/user-attachments/assets/15f79e62-06b5-4145-92dc-0e07361cc1bb" />
+
 
 <br>
 
 
-![README md 5](https://github.com/user-attachments/assets/779be816-386d-44f8-a6dc-2eb285953a0e)
+<img width="935" height="430" alt="스크린샷 2025-08-21 오후 4 30 22" src="https://github.com/user-attachments/assets/a12aeacb-fa65-4ae7-89d1-cc2d67af794d" />
+
 
 <br>
 
 
-![README md 6](https://github.com/user-attachments/assets/8da60017-90b6-40b5-84fe-bc653f6811b6)
+<img width="950" height="425" alt="스크린샷 2025-08-21 오후 4 28 39" src="https://github.com/user-attachments/assets/2e52ccb2-0b31-473f-87ab-8dfcd0f0fb87" />
+
 
 <br>
 
