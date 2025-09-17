@@ -1,9 +1,3 @@
-[![README md 1](https://github.com/user-attachments/assets/a1a375cf-7835-4d1b-8f3f-3170a452fc4f)](https://youtu.be/V7Il3zwaP5U)
-##### 📽️ 데모 영상을 보시려면 위 이미지를 클릭해 주세요.
-
-
-
-<br><br>
 
 ## 🔐 **SafeView**
 
@@ -46,6 +40,13 @@ SafeView는 단순한 CCTV 모니터링 시스템이 아닙니다.<br>
 
 
 <img width="950" height="425" alt="스크린샷 2025-08-21 오후 4 28 39" src="https://github.com/user-attachments/assets/2e52ccb2-0b31-473f-87ab-8dfcd0f0fb87" />
+
+
+<br><br>
+
+
+[![README md 1](https://github.com/user-attachments/assets/a1a375cf-7835-4d1b-8f3f-3170a452fc4f)](https://youtu.be/V7Il3zwaP5U)
+##### 📽️ 데모 영상을 보시려면 위 이미지를 클릭해 주세요.
 
 
 <br>
