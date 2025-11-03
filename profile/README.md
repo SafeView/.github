@@ -33,7 +33,6 @@ SafeView는 단순한 CCTV 관리 시스템이 아닙니다.
 ## License
 이 프로젝트는 [MIT License](../LICENSE.md) 하에 배포됩니다.  
 단, **인권 침해적 감시·감독 기술**에의 사용은 금지됩니다.  
-자세한 내용은 [ETHICAL_POLICY.md](../ETHICAL_POLICY.md) 를 참고하세요.
 
 ---
 
