@@ -2,7 +2,7 @@
 ## 🔐 **SafeView**
 
 > <i>"CCTV 영상에서 개인정보를 실시간으로 보호하며, 권한자만 원본에 접근할 수 있는 지능형 보안 플랫폼"</i><br>
-> <i>"AI가 자동으로 얼굴과 번호판을 탐지하여 모자이크 처리"</i><br>
+> <i>"AI가 자동으로 얼굴을 탐지하여 모자이크 처리"</i><br>
 > <i>"블록체인 기반 키 관리로 안전한 복호화 지원"</i>
 
 
@@ -10,6 +10,38 @@
 
 SafeView는 단순한 CCTV 모니터링 시스템이 아닙니다.<br>
 "SafeView는 개인정보 보호와 공공 안전을 동시에 실현하는 AI 기반 프라이버시 보호 CCTV 플랫폼입니다."
+
+---
+
+## Introduction
+SafeView는 단순한 CCTV 관리 시스템이 아닙니다.  
+우리는 **시선의 권한을 제어하는 기술**을 연구합니다.  
+실시간 스트리밍 모자이크 기술과 얼굴 탐지 기능을 통해  
+**개인 정보가 노출되지 않는 감시 생태계**를 만듭니다.
+
+---
+
+## Core Modules
+| Repository | Description |
+|-------------|--------------|
+| [Backend](https://github.com/SafeView/Backend) | Spring Boot 기반 접근 제어 서버 |
+| [Camera-AI](https://github.com/SafeView/Camera-AI) | 모자이크 처리 및 얼굴 분석 |
+| [Frontend](https://github.com/SafeView/Frontend) | 관리용 대시보드 / 웹 인터페이스 |
+
+---
+
+## License
+이 프로젝트는 [MIT License](../LICENSE.md) 하에 배포됩니다.  
+단, **인권 침해적 감시·감독 기술**에의 사용은 금지됩니다.  
+자세한 내용은 [ETHICAL_POLICY.md](../ETHICAL_POLICY.md) 를 참고하세요.
+
+---
+
+## Contributing
+SafeView는 “**기술로 시선을 정의하는 실험**”에 기여하는 모든 개발자를 환영합니다.  
+[CONTRIBUTING.md](../CONTRIBUTING.md) 를 먼저 읽고 Pull Request를 생성해주세요.
+
+---
 
 <br><br>
 
